@@ -1,2 +1,2 @@
 # hello-world
-Another repository for pratice
+Another repository for pratice.
